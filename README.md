@@ -39,7 +39,7 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dsavvari)
 - 🧰 [GitHub Projects](https://github.com/dsavvari?tab=repositories)
-- ✉️ dsavvari@ieee.org *(or GitHub DMs)*
+- ✉️ dimitris@computer.org *(or GitHub DMs)*
 
 ---
 
