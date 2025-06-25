@@ -17,8 +17,8 @@
 
 ### 🧰 Tech Toolbox
 
-- **Languages:** C, C++, Python, Ada, Rust (beginner)
-- **MCUs:** STM32 (L4, F4, H7)
+- **Languages:** Embedded C, C++, Python, Ada, Rust (beginner)
+- **MCUs:** ARM Cortex-M4/M7 – STM32 (L4, F4), NXP i.MX RT1064
 - **Tools:** Logic analyzers, oscilloscopes, ST-Link, GDB, OpenOCD
 - **Stacks:** FreeRTOS, CMSIS, Zephyr (exploring)
 - **Other:** CMake, Git, CI/CD, Docker (for embedded builds)
